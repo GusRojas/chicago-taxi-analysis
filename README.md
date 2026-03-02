@@ -33,6 +33,7 @@ Taxi demand is heavily concentrated in downtown Chicago. The top destination nei
 | 5 | **O'Hare** | International airport |
 
 The top 10 neighborhoods account for the vast majority of all completed trips, while peripheral residential areas show significantly lower demand.
+![Top 10 neighborhoods by trip volume](figures/Top10_barrios.png)
 
 ### 🌧️ Hypothesis Test — Weather Impact on Trip Duration
 
@@ -88,8 +89,7 @@ Charts generated in this project include:
 - Histogram: Trip duration distribution by weather condition (Loop → O'Hare)
 - Box plot & Violin plot: Duration comparison across weather groups
 
-*(Run the notebook to reproduce all visualizations)*
-
+![Statistical analysis](figures/analisisEstadisitico.png)
 ---
 
 ## Installation & Usage
