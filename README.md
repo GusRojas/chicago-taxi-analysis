@@ -103,9 +103,9 @@ cd chicago-taxi-analysis
 # Launch Jupyter
 jupyter notebook
 ```
-
+<!--
 > ⚠️ Note: Raw data files are not included due to size. See `data/README.md` for download instructions.
-
+-->
 ---
 
 ## Technologies
